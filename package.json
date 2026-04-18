@@ -1,0 +1,14 @@
+{
+  "name": "gonzalez-inmuebles-luxury",
+  "version": "1.0.0",
+  "description": "Sitio web y CMS autogestionable para González Inmuebles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
